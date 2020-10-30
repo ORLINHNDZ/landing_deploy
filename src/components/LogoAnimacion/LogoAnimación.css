@@ -1,0 +1,23 @@
+*{
+    margin: O;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { text-align: center;
+    text-align: center;
+}
+
+#backgorund{
+    animation: back 2s infinite linear;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+@keyframes background{
+    from{
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
