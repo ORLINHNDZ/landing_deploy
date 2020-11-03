@@ -47,7 +47,7 @@ function Footer() {
           <div className='footer-link-items'>
             <h2>Siguenos en Nuestras Redes Sociales</h2>
             <a href={'https://www.facebook.com/Megadatos-109698184257656/'}>Facebook</a>
-            <a href={'https:///wa.link/17vr6t'}>WhatsApp</a>
+            <a href={'https:///wa.link/lrfn9j'}>WhatsApp</a>
             
           </div>
         </div>
@@ -74,7 +74,7 @@ function Footer() {
             <a
               className='social-icon-link'
               href={
-                'https:///wa.link/17vr6t'
+                'https:///wa.link/lrfn9j'
               }
               target='_blank'
               aria-label='WhatsApp'
@@ -84,7 +84,7 @@ function Footer() {
             
             <Link
               className='social-icon-link'
-              to='/wa.link/17vr6t'
+              to='/wa.link/lrfn9j'
               target='_blank'
               aria-label='LinkedIn'
             >
