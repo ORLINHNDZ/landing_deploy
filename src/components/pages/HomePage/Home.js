@@ -13,7 +13,6 @@ function Home() {
     <MessengerCustomerChat
     pageId="109698184257656"
     appId="817525709001583"
-    htmlRef="<REF_STRING>"
    />
       <HeroSection {...homeObjOne} />
       <HeroSection {...homeObjThree} />

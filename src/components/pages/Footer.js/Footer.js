@@ -36,18 +36,18 @@ function Footer() {
           </div>
           <div className='footer-link-items'>
             <h2>Encuentranos</h2>
-            <Link to='/'>Contacto</Link>
+            <Link to='/contact'>Contacto</Link>
             <Link to='/'>San Juan Pueblo, Atlántida, Honduras</Link>
-            
+            <Link to='/'>+504 32501874</Link>
+            <Link to='/'>+504 89951100</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           
           <div className='footer-link-items'>
             <h2>Siguenos en Nuestras Redes Sociales</h2>
-            <href to= 'https://www.facebook.com/Megadatos-109698184257656' />
-            <Link to='/https://www.facebook.com/Megadatos-109698184257656/'>Facebook</Link>
-            <Link to='/wa.link/17vr6t'>WhatsApp</Link>
+            <a href={'https://www.facebook.com/Megadatos-109698184257656/'}>Facebook</a>
+            <a href={'https:///wa.link/17vr6t'}>WhatsApp</a>
             
           </div>
         </div>
@@ -62,25 +62,25 @@ function Footer() {
           </div>
           <small className='website-rights'>MEGADATOS © 2020</small>
           <div className='social-icons'>
-            <Link
+            <a
               className='social-icon-link'
-              to='/'
-              target='_blank'
+              href='https://www.facebook.com/Megadatos-109698184257656/'
+              target='https://www.facebook.com/Megadatos-109698184257656/'
               aria-label='Facebook'
             >
               <FaFacebook />
-            </Link>
+            </a>
           
-            <Link
+            <a
               className='social-icon-link'
-              to={
-                ''
+              href={
+                'https:///wa.link/17vr6t'
               }
               target='_blank'
               aria-label='WhatsApp'
             >
               <FaWhatsapp />
-            </Link>
+            </a>
             
             <Link
               className='social-icon-link'
