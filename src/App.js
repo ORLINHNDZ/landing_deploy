@@ -10,12 +10,16 @@ import Footer from './components/pages/Footer.js/Footer';
 import Contact from './components/pages/Contact/Contact';
 import Pricing from './components/pages/Products/Products';
 import ScrollToTop from './components/ScrollToTop';
-
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 function App() {
   return (
     <Router>
       <ScrollToTop/>
       <Navbar />
+      <MessengerCustomerChat
+        pageId="109698184257656"
+        appId="817525709001583"
+        />
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />

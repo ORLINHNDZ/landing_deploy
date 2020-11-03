@@ -2,7 +2,7 @@ import React from 'react';
 import './HeroSection.css';
 import { Button } from './Button';
 import { Link } from 'react-router-dom';
-import MessengerCustomerChat from 'react-messenger-customer-chat';
+
 
 function HeroSection({
   lightBg,
@@ -28,10 +28,7 @@ function HeroSection({
       <div
         className={lightBg ? 'home__hero-section' : 'home__hero-section darkBg'}
       >
-        <MessengerCustomerChat
-        pageId="109698184257656"
-        appId="817525709001583"
-        />
+        
         <div className='container'>
           <div
             className='row home__hero-row'
