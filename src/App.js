@@ -16,10 +16,12 @@ function App() {
     <Router>
       <ScrollToTop/>
       <Navbar />
+      
       <MessengerCustomerChat
         pageId="109698184257656"
         appId="817525709001583"
         />
+      
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />

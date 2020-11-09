@@ -34,7 +34,7 @@ function ServicesExtra() {
                 <div className='icon'>
                   <GiMeshNetwork />
                 </div>
-                <h3>Internet Coorporativo</h3>
+                <h3>Internet Corporativo</h3>
                
                 <ul className='services__container-features'>
                   <li> Servicio contratado con el cual se obtiene una red privada que no se comparte con otros usuarios. A diferencia de la banda ancha para el público general que tiene distribución y velocidad asimétricas, esta es una conexión simétrica. </li>

@@ -23,7 +23,7 @@ function About() {
                 <h3>Historia</h3>
                
                 <ul className='about__container-features'>
-                  <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel cumque earum dignissimos consectetur laboriosam veritatis repellendus blanditiis, culpa, id error architecto soluta eveniet ipsum eum saepe? Vel minus facilis perspiciatis. </li>
+                  <li>Megadatos nace a raíz de la necesidad que hay por brindar un servicio de internet que se caracterice por su calidad y precios en la zona. </li>
                   
                 </ul>
                 
@@ -38,7 +38,7 @@ function About() {
                
                 <ul className='about__container-features'>
                   
-                  <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente provident omnis odio soluta delectus nesciunt vel aliquam quis ab fugit totam nulla alias laborum, temporibus asperiores aliquid voluptatem, iusto recusandae.</li>
+                  <li>Nuestra misión es ser los proveedores de internet preferidos por la gente, que sea nuestra calidad lo que nos diferencíe de la competencia.</li>
                   
                 </ul>
                 
@@ -51,7 +51,7 @@ function About() {
                 </div>
                 <h3>Visión</h3>
                 <ul className='about__container-features'>
-                  <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure dignissimos at minus placeat quaerat corrupti nihil officia exercitationem quis. Possimus molestias consequatur fugiat facere optio cum quas laudantium quia sint! </li>
+                  <li>Para 2024 planeamos ser los principales proveedores de servicio en la zona. </li>
                   
                 </ul>
                 
